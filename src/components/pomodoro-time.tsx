@@ -1,7 +1,7 @@
 import React from 'react';
 import { useEffect, useState, useCallback } from 'react';
 import useInterval from '../hooks/use-interval';
-import { secondsToMinutes } from '../utils/seconds-to-minutes';
+//import { secondsToMinutes } from '../utils/seconds-to-minutes';
 import { secondsToTime } from '../utils/seconds-to-time';
 // import { secondsToTime } from '../utils/seconds-to-time';
 import { Button } from './button';
